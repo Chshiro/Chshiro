@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Chshiro
+- 👀 I’m interested in coding, blockchain
+- 🌱 I’m currently learning js, solidity
+- 📫 How to reach me: telegram @oyshen
